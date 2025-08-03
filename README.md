@@ -55,6 +55,7 @@ client = openai.OpenAI(api_key="your-api-key")
 - 「這週是否應該調整房價？」
 - 「競品價格影響我多少？」
 - 「住房率偏低怎麼辦？」
+- Streamlit Demo : https://hotel-strategy-deployable0723.streamlit.app/
 
 ---
 
